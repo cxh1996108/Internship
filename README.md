@@ -1,7 +1,7 @@
 # Internship
 - 主要记录一下寻找春季日常实习和暑期实习的一些有趣细节，供自己复盘，也作为一个样本供他人（有缘人）参考。github是一个很好的永久记录平台，同时也不会有很多人看。
 - 暑期实习一定是需要海投的，只有样本相对比较大，才能比较好的定位大概自己的背景在求职鄙视链中的位置，也才能比较好地修正自己对获得笔试、面试甚至offer的期望。（这很贝叶斯）
-- [笔试题](https://github.com/cxh1996108/Internship/blob/main/Interview%20Questions.md)  
+- [笔试题](https://github.com/cxh1996108/Internship/blob/main/Written%20Test.md)  
   - 会随缘更新，尤其是一些不会做的，如果你做出来了，请留言告诉我，我不胜感激。我认为比较难的我想明白了也会提供一个解法。
   - I would really appreciate it if you know the answer and send me a message. Even a hint is extremely helpful. 
 - 有时间则更新
