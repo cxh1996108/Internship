@@ -7,7 +7,8 @@
 
 # Quant
 - Lasso、Ridge、OLS回归的$$R^2$$大小排序
-  - OLS > Lasso > Ridge
+  - 我的答案是OLS > Lasso > Ridge。OLS肯定是最大的，但是Lasso和Ridge我不知道如何判断。
+  - 小胖的老师说ridge和lasso无法比较，要看原模型是什么，如果原模型中很多系数close to 0，lasso是要大一些的，因为lasso can real send this coefficient to zero。
 - 估算Lasso的trace（例如200个样本，40个特征）
 - 正四面体上的蚂蚁，遍历3个顶点，返回原点的期望步数？
   - Hint: Markov Chain
